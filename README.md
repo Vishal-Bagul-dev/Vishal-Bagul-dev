@@ -20,6 +20,8 @@
 🔗 **[E-commerce SQL Analysis](https://github.com/Vishal-Bagul/ecommerce-sql-project)**
 Analyzed an e-commerce database using SQL — covering customer spending patterns, best-selling products, monthly sales trends, and category-wise revenue using joins, subqueries, and window functions.
 
+📊 **[Food Delivery SQL Analysis](https://github.com/Vishal-Bagul-dev/food-delivery-sql-project)** — Analyzed a food delivery platform database covering RFM analysis, cohort retention, customer segmentation, and reusable Views using joins, subqueries, window functions, and CTEs.
+
 ### 📫 Reach Me
 - 💼 LinkedIn: [linkedin.com/in/vishal-bagul-b47701222](https://linkedin.com/in/vishal-bagul-b47701222)
 - 📧 Email: vishalbagul358@gmail.com
