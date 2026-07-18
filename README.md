@@ -22,6 +22,8 @@ Analyzed an e-commerce database using SQL — covering customer spending pattern
 
 📊 **[Food Delivery SQL Analysis](https://github.com/Vishal-Bagul-dev/food-delivery-sql-project)** — Analyzed a food delivery platform database covering RFM analysis, cohort retention, customer segmentation, and reusable Views using joins, subqueries, window functions, and CTEs.
 
+🎯 [HR Employee Attrition Analysis](https://github.com/Vishal-Bagul-dev/hr-employee-attrition-analysis) — End-to-end SQL + Power BI project analyzing employee attrition patterns, with an interactive dashboard uncovering key retention risk segments (department, job role, overtime, income).
+
 ### 📫 Reach Me
 - 💼 LinkedIn: [linkedin.com/in/vishal-bagul-b47701222](https://linkedin.com/in/vishal-bagul-b47701222)
 - 📧 Email: vishalbagul358@gmail.com
