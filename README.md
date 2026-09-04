@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishal Bagul 👋
 
-🎯 **Aspiring Data Analyst** | Transitioning into Data Analytics with a focus on SQL & Excel
+🎯 **Data Analyst | SQL • Python • Power BI • Generative AI
 
 📊 I enjoy turning raw data into clear, actionable insights — currently sharpening my skills through hands-on SQL projects.
 
