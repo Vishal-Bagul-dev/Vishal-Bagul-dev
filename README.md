@@ -1,32 +1,60 @@
-### Hi there, I'm Vishal Bagul 👋
+# Hi there, I'm Vishal Bagul 👋
 
-🎯 **Data Analyst | SQL • Python • Power BI • Generative AI
+🎯 **IT Support Engineer (Fresher) | Help Desk | Desktop Support | Technical Support**
 
-📊 I enjoy turning raw data into clear, actionable insights — currently sharpening my skills through hands-on SQL projects.
+🖥️ I enjoy solving technical problems and helping users get back to work quickly. I am building hands-on skills in Windows Server, Active Directory, troubleshooting and helpdesk ticket handling.
 
 ---
 
-### 🛠️ Skills
-- **SQL** (MySQL) — Joins, Subqueries, Window Functions, Aggregations
-- **Excel** — Pivot Tables, Power Query, Data Cleaning
-- **Tools** — MySQL Workbench, Git & GitHub
+## 🛠️ Skills
 
-### 🌱 Currently Learning
-- Advanced SQL (Window Functions, CTEs)
-- Power BI
-- Python for Data Analysis
+**Operating Systems**
+- Windows 10 / 11 and Windows Server
+- Installing and configuring virtual machines (VirtualBox)
 
-### 📌 Featured Project
-🔗 **[E-commerce SQL Analysis](https://github.com/Vishal-Bagul/ecommerce-sql-project)**
-Analyzed an e-commerce database using SQL — covering customer spending patterns, best-selling products, monthly sales trends, and category-wise revenue using joins, subqueries, and window functions.
+**Active Directory and User Management**
+- Creating users and groups, Organizational Units (OUs)
+- Password reset, account unlock, disable and recover accounts
 
-📊 **[Food Delivery SQL Analysis](https://github.com/Vishal-Bagul-dev/food-delivery-sql-project)** — Analyzed a food delivery platform database covering RFM analysis, cohort retention, customer segmentation, and reusable Views using joins, subqueries, window functions, and CTEs.
+**Support and Troubleshooting**
+- Level 1 help desk and desktop support
+- Diagnosing login, printer, shared folder and slow PC issues
+- Root cause analysis and step-by-step fixes
 
-🎯 [HR Employee Attrition Analysis](https://github.com/Vishal-Bagul-dev/hr-employee-attrition-analysis) — End-to-end SQL + Power BI project analyzing employee attrition patterns, with an interactive dashboard uncovering key retention risk segments (department, job role, overtime, income).
+**File and Print Services**
+- Shared folders and permissions
+- Printer setup and print queue problems
 
-### 📫 Reach Me
+**Ticketing and Documentation**
+- Helpdesk ticket handling and prioritization
+- Writing knowledge base articles and fix guides
+- Documenting IT work with screenshots
+
+**Tools:** VirtualBox, Server Manager, Active Directory Users and Computers, Task Manager, Command Prompt, Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Networking fundamentals: TCP/IP, DNS, DHCP, ping, ipconfig, nslookup
+- Group Policy (GPO)
+- PowerShell basics for automation
+- Ticketing tools: osTicket / GLPI
+- Remote support tools and Microsoft 365 / Outlook basics
+- CompTIA A+ concepts (hardware, software, security basics)
+
+---
+
+## 📌 Featured Project
+
+🖥️ **[IT Support Home Lab](https://github.com/Vishal-Bagul-dev/IT-Support-Home-Lab)**
+Built a virtual office lab with Windows Server and Active Directory. Practiced user and group management, Organizational Units, shared folders and printers, and documented helpdesk tickets with step-by-step fixes in a knowledge base.
+
+---
+
+## 📫 Reach Me
+
 - 💼 LinkedIn: [linkedin.com/in/vishal-bagul-b47701222](https://linkedin.com/in/vishal-bagul-b47701222)
-- 📧 Email: vishalbagul358@gmail.com
+- 📧 Email: [vishalbagul358@gmail.com](mailto:vishalbagul358@gmail.com)
 
----
-⭐️ Actively looking for **Data Analyst** opportunities — feel free to connect!
+⭐️ Actively looking for IT Support / Help Desk / Desktop Support opportunities. Feel free to connect!
